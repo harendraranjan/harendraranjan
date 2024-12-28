@@ -11,8 +11,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 🛠️ Skills & Tools
 
 ### Languages:
-- Java
-- C++
+- Java core
 - JavaScript
 - SQL
 
