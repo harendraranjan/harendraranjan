@@ -70,7 +70,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 💼 Experience
 
 ### Brainiac Training Centre Pvt Ltd
-- **Role**: Software Developer (Feb 2024)
+- **Role**: Software Developer (December 2023)
 - **Responsibilities**:
   - Built and implemented a business website from scratch.
   - Developed user-friendly web applications with a responsive front end.
